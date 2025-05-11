@@ -8,3 +8,20 @@ Deposit Money – Allows the user to enter an amount to add to their account. Th
 Withdraw Money – Allows the user to withdraw a specified amount from the account if sufficient funds are available.
 
 Exit the Application – Safely terminates the program.
+
+Technologies Used:
+Language: Java
+
+Environment: Command-line interface (CLI) using any IDE like VS Code, Eclipse, or IntelliJ
+
+Concepts Applied:
+
+Variables and data types
+
+Loops and conditional statements
+
+User input handling with Scanner
+
+Basic arithmetic operations
+
+Menu-driven program structure
