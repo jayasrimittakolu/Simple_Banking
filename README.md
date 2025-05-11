@@ -25,3 +25,12 @@ User input handling with Scanner
 Basic arithmetic operations
 
 Menu-driven program structure
+
+Learning Outcomes:
+Gain a solid foundation in control structures (if/else, switch, loops)
+
+Learn how to use Java’s Scanner class for user input
+
+Understand how to manage program flow using a simple menu
+
+Practice working with variables and updating values dynamically.
